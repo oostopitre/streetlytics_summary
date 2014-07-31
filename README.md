@@ -1,6 +1,3 @@
-Streetlytics Summary
-====================
-
 #[Streetlytics Summary](https://github.com/oostopitre/streetlytics_summary/blob/master/README.md)
 
 
@@ -20,8 +17,8 @@ The below pages are rendered via the *nbviewer* at
 Interactive notebooks + examples can be downloaded by cloning! 
 
 
-* [**Denver, CO:**](http://nbviewer.ipython.org/github/oostopitre/streetlytics_summary/blob/master/co_den/Summary_v2_co_den.ipynb) 
+* [**Denver, CO**](http://nbviewer.ipython.org/github/oostopitre/streetlytics_summary/blob/master/co_den/Summary_v2_co_den.ipynb) 
 
-* [**Seattle, WA:**](http://nbviewer.ipython.org/github/oostopitre/streetlytics_summary/blob/master/dc_was/Summary_v2_dc_was.ipynb) 
+* [**Seattle, WA**](http://nbviewer.ipython.org/github/oostopitre/streetlytics_summary/blob/master/dc_was/Summary_v2_dc_was.ipynb) 
 
-* [**Washington DC:**](http://nbviewer.ipython.org/github/oostopitre/streetlytics_summary/blob/master/wa_sea/Summary_v2_wa_sea.ipynb) 
+* [**Washington DC**](http://nbviewer.ipython.org/github/oostopitre/streetlytics_summary/blob/master/wa_sea/Summary_v2_wa_sea.ipynb) 
