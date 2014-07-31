@@ -1,0 +1,5 @@
+/archive/*
+/co_den/*.dbf
+/co_den/*.csv
+/*/*.dbf
+/*/*.csv
